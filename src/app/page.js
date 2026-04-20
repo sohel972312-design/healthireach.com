@@ -14,12 +14,12 @@ export default function Home() {
         {/* Logo / Brand */}
         <div className="mb-8 animate-fade-in">
           <h2 className="text-2xl font-bold tracking-tighter text-white">
-            HEALTH<span className="text-cyan-400">REACH</span>
+            Healthi<span className="text-cyan-400">Reach</span>
           </h2>
         </div>
 
         {/* Hero Section */}
-        <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-6 tracking-tight">
+        <h1 className="text-5xl font-sans md:text-7xl font-extrabold text-white mb-6 tracking-tight">
           The future of <br />
           <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
             Digital Wellness
